@@ -1,5 +1,6 @@
 # Header
 ## Subtitle would be this size
-### Section Title
+### Image Section
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 #### Subsection
 ##### Small
